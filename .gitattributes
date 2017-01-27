@@ -1,5 +1,5 @@
-*.c diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
-*.h diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.c diff=cpp eol=lf whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.h diff=cpp eol=lf whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
 *.cpp diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
 *.hpp diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
 *.cxx diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
