@@ -1,0 +1,14 @@
+*.c diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.h diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.cpp diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.hpp diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.cxx diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.hxx diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.cc diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.hh diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.inl diff=cpp whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.m diff=objc whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.mm diff=objc whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.lua whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.java diff=java whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
+*.py diff=python whitespace=trailing-space,space-before-tab,indent-with-non-tab,tabwidth=1
